@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/plamedi/.dotnet/store/|arch|/|tfm|",
+      "/Users/plamedi/.nuget/packages"
+    ]
+  }
+}

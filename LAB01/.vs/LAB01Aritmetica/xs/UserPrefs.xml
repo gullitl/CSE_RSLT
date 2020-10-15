@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{8EE1A6B7-0BDD-478C-A078-FD5240B07A1E}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="LAB01AritmeticaApp/Program.cs">
+    <Files>
+      <File FileName="LAB01AritmeticaApp/Program.cs" Line="23" Column="43" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LAB01Aritmetica" expanded="True">
+            <Node name="LAB01AritmeticaApp" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.LAB01AritmeticaApp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
